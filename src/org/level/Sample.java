@@ -4,9 +4,9 @@ public class Sample {
 
 	public static void main(String[] args) {
 		System.out.println("success");
-	
-	int a = 10;
-	System.out.println(a);
-	
+		System.out.println("123");
+		int a = 10;
+		System.out.println(a);
+
 	}
 }
